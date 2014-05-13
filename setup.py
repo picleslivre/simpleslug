@@ -17,7 +17,6 @@ setup(
     license="BSD 2-Clause",
     url="http://github.com/picleslivre/simpleslug/",
     py_modules=["simpleslug"],
-    tests_require=tests_require,
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
